@@ -1,25 +1,27 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+TeX                      1 hr 7 mins         ███████████████████████░░   93.77 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2024 18:37:27 UTC
+ Last Updated on 15/01/2024 18:38:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
