@@ -1,25 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-C                        26 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 20/05/2025 18:50:36 UTC
+ Last Updated on 21/05/2025 18:49:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
