@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -9,17 +9,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      7 mins              ███████████████████████░░   92.97 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2025 18:52:22 UTC
+ Last Updated on 14/08/2025 18:53:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
