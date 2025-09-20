@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 
- Last Updated on 19/09/2025 18:46:48 UTC
+ Last Updated on 20/09/2025 18:42:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
