@@ -1,10 +1,29 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
+Python                   3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Go                       2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 44 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      9 hrs 44 mins       █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 20/09/2025 18:42:39 UTC
+ Last Updated on 21/09/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
