@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C369%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -9,20 +9,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 19 mins      ████████████████████████░   97.74 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   10 hrs 52 mins      █████████████████████████   98.07 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 34 mins      █████████████████████████   100.00 % 
+Cursor                   11 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 19:21:11 UTC
+ Last Updated on 05/03/2026 19:43:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
