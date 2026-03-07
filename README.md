@@ -9,19 +9,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 11 mins       ████████████████████████░   96.66 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   4 hrs 9 mins        ████████████████████████░   95.14 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 24 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 19:09:45 UTC
+ Last Updated on 07/03/2026 18:56:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
