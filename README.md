@@ -9,22 +9,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 1 min         ██████████████████░░░░░░░   73.45 % 
-Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Terraform                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   5 hrs 1 min         ████████████████████░░░░░   79.65 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Terraform                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 32 mins       █████████████████░░░░░░░░   66.35 % 
-VS Code                  2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Cursor                   4 hrs 21 mins       █████████████████░░░░░░░░   69.12 % 
+VS Code                  1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
 
 💻 Operating System: 
-Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 19:49:00 UTC
+ Last Updated on 16/04/2026 19:45:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
