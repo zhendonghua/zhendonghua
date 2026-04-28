@@ -9,20 +9,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.52 % 
-Other                    1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.01 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    1 hr 25 mins        ███████████░░░░░░░░░░░░░░   44.99 % 
+Python                   1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 19:54:18 UTC
+ Last Updated on 28/04/2026 20:01:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
