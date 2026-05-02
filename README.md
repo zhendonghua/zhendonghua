@@ -9,20 +9,17 @@
 
 ```text
 💬 Programming Languages: 
-Other                    47 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
-Python                   37 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
-Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/05/2026 19:47:46 UTC
+ Last Updated on 02/05/2026 19:35:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
