@@ -1,25 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C435%20hrs%201%20min-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 
- Last Updated on 27/05/2026 20:33:13 UTC
+ Last Updated on 28/05/2026 20:55:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
