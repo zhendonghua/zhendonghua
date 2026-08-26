@@ -11,23 +11,42 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 27 mins       █████████████████░░░░░░░░   67.77 % 
+C++                      1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 28 mins       █████████████████░░░░░░░░   68.05 % 
+VS Code                  1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 28 mins (68.19%)
+
+✍️ 742 lines written by AI, 336 lines written by hand (68.83% AI-written)
+
+🔤 6,162,402 Input Tokens, 916,896 Output Tokens
+
+💵 $156.72 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 6 AI Prompts
+
+Fable                    729 lines           ████████████████████████░   97.59 % 
+Opus                     18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 68.83% of written lines came from AI
+📚 Verbose Prompter — average 2,011 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 39.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 19:08:49 UTC
+ Last Updated on 26/08/2026 20:40:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
